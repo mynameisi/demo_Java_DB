@@ -1,0 +1,2 @@
+select name from test.item where id=4;
+select price from test.sale;
