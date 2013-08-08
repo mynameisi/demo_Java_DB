@@ -97,7 +97,7 @@ public class Test {
 			System.out.println("+-----------+\n");
 		}
 		
-		
+		sc.close();
 		stmt.close();
 	}
 }
